@@ -82,10 +82,11 @@ section h2 {
   text-align: center;
 }
 
-.content-image{
+.content-image {
   max-width: 100%;
-  height: 500px;;
-  display:block;
+  height: 500px;
+  ;
+  display: block;
   margin: 0auto;
 
 }
@@ -102,21 +103,21 @@ footer {
   box-sizing: border-box;
 }
 
-.container{
+.container {
   width: 488;
   margin: 0 auto;
   background-color: #67635e;
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   align-items: center;
   font-family: "Jersey 25", sans-serif;
   color: #000;
 }
 
-.gray-container{
+.gray-container {
   background-color: #0000002e;
   width: 90%;
-  margin:  auto;
+  margin: auto;
   padding: 4rem;
   border-radius: 10px;
   box-sizing: border-box;
