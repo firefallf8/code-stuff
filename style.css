@@ -82,9 +82,9 @@ section h2 {
   text-align: center;
 }
 
-.content-box img.content-image{
+.content-image{
   max-width: 100%;
-  height:auto;
+  height: 500px;;
   display:block;
   margin: 0auto;
 
